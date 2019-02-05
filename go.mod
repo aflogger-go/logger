@@ -1,4 +1,4 @@
-module logger
+module github.com/aflogger-go/logger
 
 require (
 	go.uber.org/atomic v1.3.2 // indirect
